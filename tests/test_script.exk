@@ -1,0 +1,2 @@
+RUN_WSL >> "ls -la"
+RUN_PS >> "echo 'Hello from PowerShell'"
