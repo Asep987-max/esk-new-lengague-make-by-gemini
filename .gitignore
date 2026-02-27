@@ -1,0 +1,10 @@
+# Binaries
+src/core/engine
+src/core/engine.exe
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
